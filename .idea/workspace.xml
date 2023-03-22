@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00460f47-97e2-4bc2-86ed-fc60ad770798" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/student/MainStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/student/PersonStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class1/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class1/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class2/IntegerManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class2/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/MainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/PersonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/SumDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +50,25 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="class" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.student.MainStudent" />
+  <component name="RunManager" selected="Application.sum">
+    <configuration name="demo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.demo.MainDemo" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.demo.SumDigit" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.demo" />
+      <item itemvalue="Application.sum" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,7 +83,8 @@
       <workItem from="1679290102824" duration="2000" />
       <workItem from="1679400249664" duration="238000" />
       <workItem from="1679407352519" duration="1170000" />
-      <workItem from="1679413678602" duration="1276000" />
+      <workItem from="1679413678602" duration="1719000" />
+      <workItem from="1679447614428" duration="11047000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1679408412701</created>
@@ -84,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679408412701</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1679414994464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679414994464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1679415091160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679415091160</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
