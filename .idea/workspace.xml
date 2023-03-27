@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00460f47-97e2-4bc2-86ed-fc60ad770798" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/MainClass3/MainClassObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class3/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class3/StudentWallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class3/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wallet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wallet/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wallet/Wallet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/SumDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/SumDigit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -50,9 +49,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Class3">
+  <component name="RunManager" selected="Application.walletnew">
     <configuration name="Class3" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.MainClass3.MainClassObject" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassWallet" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.ClassWallet.MainClassWallet" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,10 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="walletnew" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.wallet.Main" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.demo" />
       <item itemvalue="Application.sum" />
       <item itemvalue="Application.Class3" />
+      <item itemvalue="Application.walletnew" />
+      <item itemvalue="Application.ClassWallet" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,7 +108,9 @@
       <workItem from="1679407352519" duration="1170000" />
       <workItem from="1679413678602" duration="1719000" />
       <workItem from="1679447614428" duration="11652000" />
-      <workItem from="1679620204605" duration="5712000" />
+      <workItem from="1679620204605" duration="8497000" />
+      <workItem from="1679669733659" duration="117000" />
+      <workItem from="1679882647174" duration="1779000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1679408412701</created>
@@ -123,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679461017351</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1679631310567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679631310567</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
