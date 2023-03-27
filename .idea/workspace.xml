@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00460f47-97e2-4bc2-86ed-fc60ad770798" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/wallet/MainClassNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wallet/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/staff/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/staff/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/staff/MainStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/staff/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/staff/Staff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wallet/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wallet/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,28 +36,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java/src/com/wallet",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java/src/com/wallet&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\src\com\wallet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainClassNew">
+  <component name="RunManager" selected="Application.MainStaff">
     <configuration name="Class3" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.MainClass3.MainClassObject" />
       <module name="java" />
@@ -70,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClassNew" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.wallet.MainClassNew" />
+    <configuration name="MainStaff" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.staff.MainStaff" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,7 +105,7 @@
       <item itemvalue="Application.sum" />
       <item itemvalue="Application.Class3" />
       <item itemvalue="Application.walletnew" />
-      <item itemvalue="Application.MainClassNew" />
+      <item itemvalue="Application.MainStaff" />
       <item itemvalue="Application.ClassWallet" />
     </list>
   </component>
@@ -124,7 +126,8 @@
       <workItem from="1679447614428" duration="11652000" />
       <workItem from="1679620204605" duration="8497000" />
       <workItem from="1679669733659" duration="117000" />
-      <workItem from="1679882647174" duration="5053000" />
+      <workItem from="1679882647174" duration="10330000" />
+      <workItem from="1679927831187" duration="708000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1679408412701</created>
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679884532429</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <created>1679888401493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679888401493</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
