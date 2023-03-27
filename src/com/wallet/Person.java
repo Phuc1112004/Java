@@ -1,19 +1,33 @@
 package com.wallet;
 
 import java.util.Scanner;
-
 public class Person {
-    Wallet wallet;
+
+    public Wallet wallet;
+    protected String name;
+    int age;
+    private String key; //can not be extended
 
     //Default Constructor
     Person() {
         this.wallet = new Wallet();
+        this.name = "";
+        this.age = 0;
     }
 
-    //   public int money ;
-//
-//
-//
+    Person(String name, int age, int money) {
+        this.wallet = new Wallet( money );
+        this.name = name;
+        this.age = age;
+    }
+
+    public void display() {
+        System.out.println("Name " + this.name);
+        System.out.println("Age " + this.age);
+        System.out.println("Ammout " + this.wallet.getMoney());
+    }
+
+
     public void inputData() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your money ");
@@ -35,4 +49,5 @@ public class Person {
     public boolean payMoney(int total) { //600
         return this.wallet.payMoney(total);
     }
+
 }

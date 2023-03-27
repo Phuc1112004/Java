@@ -7,6 +7,14 @@ public class Wallet {
         this.ammout = 0;
     }
 
+    Wallet(int money) {
+        this.ammout = money;
+    }
+
+    public int getMoney() {
+        return this.ammout;
+    }
+
     public void deposit(int money) {
         this.ammout += money;
     }
@@ -19,4 +27,5 @@ public class Wallet {
 
         return false;
     }
+
 }
