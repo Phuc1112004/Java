@@ -3,25 +3,39 @@ package com.staff;
 import java.util.Scanner;
 
 public class Director extends Staff{
-    String Roll;
-    Director(){
-        super();
-        this.Roll="";
+    String Role;
+//    Director(){
+//        super();
+//        this.Role="";
+//    }
+//    Director(String name, String email,int salary, String role){
+//        super(name, email, salary);
+//        this.Role= role ;
+//    }
+
+    @Override
+    public int getBonus() {
+        return 5 * this.salary;
     }
-    Director(String name, String email,int salary, String roll){
-        super(name, email, salary);
-        this.Roll= roll ;
+    @Override
+    public void displayData() {
+
+        System.out.println("This is an Director");
+        System.out.println("Roll: "+ this.Role);
     }
 
-    public void displayData() {
-        super.displayData();
-        System.out.println("Roll: "+ this.Roll);
-    }
+    @Override
     public void inputData(){
         Scanner input = new Scanner(System.in);
-        super.inputData();
-        System.out.print("Enter Roll: ");
-        this.Roll = input.nextLine();
+        System.out.print("Enter Name:");
+        this.name = input.nextLine();
+        System.out.println("Enter Email:");
+        this.email = input.nextLine();
+        System.out.println("Enter Salary:");
+        this.salary = input.nextInt();
+
+        System.out.print("Enter Role: ");
+        this.Role = input.nextLine();
     }
 
 

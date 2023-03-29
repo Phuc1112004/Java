@@ -5,41 +5,28 @@ import java.util.Scanner;
 public class MainStaff {
     public static void main(String[] args) {
 
-        System.out.println("===== Welcome to our company =====");
-        System.out.println("1. Create a new director");
-        System.out.println("2. Create a new manager");
-        System.out.println("3. Create a new employee");
-        System.out.println("4. Exit");
+        System.out.println("Class4");
 
-        while (true) {
-            System.out.print("Please select a menu (1 - 4): ");
+        Staff staff[] =  new Staff[3];
 
-            Scanner mainScanner = new Scanner(System.in);
-            int selectedMenu = Integer.parseInt(mainScanner.nextLine());
+        staff[0] = new Director();
+        staff[1] = new Manager();
+        staff[2] = new Employee();
 
-            switch (selectedMenu) {
-                case 1 -> {
-                    System.out.println("Instantiating a new director....");
-                    Director director = new Director();
-                    director.inputData();
-                    director.displayData();
-                }
-                case 2 -> {
-                    System.out.println("Instantiating a new manager....");
-                    Manager manager = new Manager();
-                    manager.inputData();
-                    manager.displayData();
-                }
-                case 3 -> {
-                    System.out.println("Instantiating a new employee....");
-                    Employee employee = new Employee();
-                    employee.inputData();
-                    employee.displayData();
-                }
-                case 4 -> {
-                    return;
-                }
-            }
+        //Director
+        staff[0].setSalary(2000);
+        //Manager
+        staff[1].setSalary(1500);
+        //Employee
+        staff[2].setSalary(1000);
+
+        int total = 0;
+        for (Staff item : staff) {
+            item.displayData();
+            System.out.println("Bonus " + item.getBonus());
+            total += item.getBonus();
         }
+
+        System.out.println("Company bonus: " + total);
     }
 }

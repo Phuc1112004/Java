@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00460f47-97e2-4bc2-86ed-fc60ad770798" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/staff/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/staff/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/staff/MainStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/staff/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/staff/Staff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/staff/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staff/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staff/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/staff/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staff/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/staff/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staff/Staff.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +127,8 @@
       <workItem from="1679669733659" duration="117000" />
       <workItem from="1679882647174" duration="10330000" />
       <workItem from="1679927831187" duration="708000" />
+      <workItem from="1679973972014" duration="79000" />
+      <workItem from="1680053881986" duration="3773000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1679408412701</created>
