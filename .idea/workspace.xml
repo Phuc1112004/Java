@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00460f47-97e2-4bc2-86ed-fc60ad770798" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/com/class4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class4/MainShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class4/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class4/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/staff/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staff/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staff/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/staff/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staff/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/staff/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/staff/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/MainStaff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/MainStaff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/Staff.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +62,7 @@
       <recent name="D:\java\src\com\wallet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainStaff">
+  <component name="RunManager" selected="Application.Shape">
     <configuration name="Class3" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.MainClass3.MainClassObject" />
       <module name="java" />
@@ -73,6 +79,13 @@
     </configuration>
     <configuration name="MainStaff" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.staff.MainStaff" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shape" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.class4.MainShape" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,6 +118,7 @@
       <item itemvalue="Application.Class3" />
       <item itemvalue="Application.walletnew" />
       <item itemvalue="Application.MainStaff" />
+      <item itemvalue="Application.Shape" />
       <item itemvalue="Application.ClassWallet" />
     </list>
   </component>
@@ -128,7 +142,7 @@
       <workItem from="1679882647174" duration="10330000" />
       <workItem from="1679927831187" duration="708000" />
       <workItem from="1679973972014" duration="79000" />
-      <workItem from="1680053881986" duration="3773000" />
+      <workItem from="1680053881986" duration="7739000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1679408412701</created>
@@ -179,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679888401493</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1680058950198</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680058950198</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
