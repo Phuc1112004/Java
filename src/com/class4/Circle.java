@@ -12,6 +12,7 @@ public class Circle extends Shape{
         this.radius = input.nextInt();
     }
 
+
     public void getArea() {
         double area = Math.PI * radius * radius;
         System.out.printf("Dien tich hinh tron = %.1f%n", area);

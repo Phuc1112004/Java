@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00460f47-97e2-4bc2-86ed-fc60ad770798" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/class4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class4/MainShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class4/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class4/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/Director.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/MainStaff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/MainStaff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/com/staff/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/staff/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class4/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class4/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class4/MainShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class4/MainShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class4/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class4/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class4/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +136,7 @@
       <workItem from="1679882647174" duration="10330000" />
       <workItem from="1679927831187" duration="708000" />
       <workItem from="1679973972014" duration="79000" />
-      <workItem from="1680053881986" duration="7739000" />
+      <workItem from="1680053881986" duration="10231000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1679408412701</created>
@@ -200,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680058950198</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <created>1680063085086</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680063085086</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
