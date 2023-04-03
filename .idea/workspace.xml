@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00460f47-97e2-4bc2-86ed-fc60ad770798" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/com/class5/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class5/CompareRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class5/IColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class5/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class5/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class5/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class5/ShapeManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class5/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class4/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class4/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class4/MainShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class4/MainShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class4/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class4/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class4/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/class4/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/class4/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/class4/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/class4/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/class4/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/class4/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/com/class4/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/com/class4/Triangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,28 +43,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/src/com/wallet&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java/src/com",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\src\com" />
       <recent name="D:\java\src\com\wallet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Shape">
+  <component name="RunManager" selected="Application.MainShape">
     <configuration name="Class3" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.MainClass3.MainClassObject" />
       <module name="java" />
@@ -66,6 +75,13 @@
     </configuration>
     <configuration name="ClassWallet" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.ClassWallet.MainClassWallet" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainShape" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.class5.MainClass" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,6 +129,7 @@
       <item itemvalue="Application.walletnew" />
       <item itemvalue="Application.MainStaff" />
       <item itemvalue="Application.Shape" />
+      <item itemvalue="Application.MainShape" />
       <item itemvalue="Application.ClassWallet" />
     </list>
   </component>
@@ -137,6 +154,14 @@
       <workItem from="1679927831187" duration="708000" />
       <workItem from="1679973972014" duration="79000" />
       <workItem from="1680053881986" duration="10231000" />
+      <workItem from="1680188490797" duration="463000" />
+      <workItem from="1680225205997" duration="2622000" />
+      <workItem from="1680233820448" duration="50000" />
+      <workItem from="1680451753143" duration="1568000" />
+      <workItem from="1680485011490" duration="15000" />
+      <workItem from="1680485240331" duration="234000" />
+      <workItem from="1680485524607" duration="20000" />
+      <workItem from="1680489987688" duration="100000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1679408412701</created>
@@ -201,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680063085086</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <created>1680188569657</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680188569657</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
